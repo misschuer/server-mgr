@@ -1,0 +1,14 @@
+netgd_host = 127.0.0.1
+netgd_port = 2501
+
+centd_host = 127.0.0.1
+centd_port = 2502
+
+log_name = centd
+log_folder = log/
+
+log_level = 0
+
+script_folder = "scripts/"
+
+s_test_type = 1
